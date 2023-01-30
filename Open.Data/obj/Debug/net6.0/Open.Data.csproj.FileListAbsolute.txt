@@ -1,0 +1,28 @@
+C:\Users\Lucas\Desktop\Agencia Open\Novo\Open\Open.Data\bin\Debug\net6.0\Open.Data.deps.json
+C:\Users\Lucas\Desktop\Agencia Open\Novo\Open\Open.Data\bin\Debug\net6.0\Open.Data.runtimeconfig.json
+C:\Users\Lucas\Desktop\Agencia Open\Novo\Open\Open.Data\bin\Debug\net6.0\Open.Data.dll
+C:\Users\Lucas\Desktop\Agencia Open\Novo\Open\Open.Data\bin\Debug\net6.0\Open.Data.pdb
+C:\Users\Lucas\Desktop\Agencia Open\Novo\Open\Open.Data\obj\Debug\net6.0\Open.Data.csproj.AssemblyReference.cache
+C:\Users\Lucas\Desktop\Agencia Open\Novo\Open\Open.Data\obj\Debug\net6.0\Open.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lucas\Desktop\Agencia Open\Novo\Open\Open.Data\obj\Debug\net6.0\Open.Data.AssemblyInfoInputs.cache
+C:\Users\Lucas\Desktop\Agencia Open\Novo\Open\Open.Data\obj\Debug\net6.0\Open.Data.AssemblyInfo.cs
+C:\Users\Lucas\Desktop\Agencia Open\Novo\Open\Open.Data\obj\Debug\net6.0\Open.Data.csproj.CoreCompileInputs.cache
+C:\Users\Lucas\Desktop\Agencia Open\Novo\Open\Open.Data\obj\Debug\net6.0\Open.Data.dll
+C:\Users\Lucas\Desktop\Agencia Open\Novo\Open\Open.Data\obj\Debug\net6.0\refint\Open.Data.dll
+C:\Users\Lucas\Desktop\Agencia Open\Novo\Open\Open.Data\obj\Debug\net6.0\Open.Data.pdb
+C:\Users\Lucas\Desktop\Agencia Open\Novo\Open\Open.Data\obj\Debug\net6.0\Open.Data.genruntimeconfig.cache
+C:\Users\Lucas\Desktop\Agencia Open\Novo\Open\Open.Data\obj\Debug\net6.0\ref\Open.Data.dll
+C:\Git\Open\Open.Data\bin\Debug\net6.0\Open.Data.deps.json
+C:\Git\Open\Open.Data\bin\Debug\net6.0\Open.Data.runtimeconfig.json
+C:\Git\Open\Open.Data\bin\Debug\net6.0\Open.Data.dll
+C:\Git\Open\Open.Data\bin\Debug\net6.0\Open.Data.pdb
+C:\Git\Open\Open.Data\obj\Debug\net6.0\Open.Data.csproj.AssemblyReference.cache
+C:\Git\Open\Open.Data\obj\Debug\net6.0\Open.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Git\Open\Open.Data\obj\Debug\net6.0\Open.Data.AssemblyInfoInputs.cache
+C:\Git\Open\Open.Data\obj\Debug\net6.0\Open.Data.AssemblyInfo.cs
+C:\Git\Open\Open.Data\obj\Debug\net6.0\Open.Data.csproj.CoreCompileInputs.cache
+C:\Git\Open\Open.Data\obj\Debug\net6.0\Open.Data.dll
+C:\Git\Open\Open.Data\obj\Debug\net6.0\refint\Open.Data.dll
+C:\Git\Open\Open.Data\obj\Debug\net6.0\Open.Data.pdb
+C:\Git\Open\Open.Data\obj\Debug\net6.0\Open.Data.genruntimeconfig.cache
+C:\Git\Open\Open.Data\obj\Debug\net6.0\ref\Open.Data.dll
